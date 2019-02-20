@@ -15,7 +15,7 @@ body {
 	width: 860px;
 	text-align: left;
 	margin-top: 330px;
-	margin-left: 740px;
+	margin-left: 700px;
 }
 
 #Title {
@@ -93,7 +93,7 @@ li {
 	width: 250px;
 	height: 305px;
 	position: absolute;
-	left: 460px;
+	left: 440px;
 	top: 325px;
 	background-size: cover;
 	border-radius: 10px;
